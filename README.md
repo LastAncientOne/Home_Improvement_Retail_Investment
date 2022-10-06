@@ -1,6 +1,6 @@
 # Housing Home Building Investment
 
-# Coming Soon!!!
+# Working on Progress!!!
 
 ### Description:
 #### This a project of long term investment and see which electric cars is a good long term investment. Analyzing technical and fundamental. Analyzing historical data (2 years) and calculate performance measurements, back-testing, forecasting, and using Capital Asset Pricing Model. Testing different trading strategies. Finding stock with lowest risks with highest returns. 
