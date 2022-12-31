@@ -28,6 +28,15 @@ Valuation Ratios – financial metrics to evaluate how the relationship between 
 
 Liquidity Ratios – financial metrics to evaluate how the company's ability to pay debt obligations and its margin of safety through the calculation of metrics including the current ratio, quick ratio, and operating cash flow ratio.   
 
+### CareTrust REIT, Inc – CTRE  
+#### Income Statement  
+•	Over the last 5 years, CareTrust REIT, Inc seems to have been stable and increasing profit over the years. This could be due to the acquisition they bought from other companies to have more Senior Apartments/Buildings and Nursing Facilities for tenants. The Acquisition/Investment can be seen in the Cash Flow Statement.  
+#### Balance Sheet  
+•	Looking at the Liabilities to Asset Ratio, over the last 5 years, CareTrust REIT, Inc, about half of their Liabilities is funding their assets, and the rest is from equity or from shareholders.   
+•	Looking at the Liabilities to Equity Ratio, as stated above, CareTrust REIT, Inc relies more on Equity to fund their business and operation.  
+#### Cash Flow  
+•	Over the past 5 years, CareTrust REIT has acquired a variety of properties to have more housing for seniors and/or nursing facilities. This could also explain why in some years they have a negative cash flow in some years. The expenses they pay such as Dividends and Debt Repayment could also be a factor as well.  
+
 ### Home Depot Inc (HD)
 #### Income Statement  
 •	Over the past 5 years, Home Depot seems to be in stable condition, and has been seeing a steady gain over the last 5 years.   
