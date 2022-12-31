@@ -28,6 +28,7 @@ Valuation Ratios – financial metrics to evaluate how the relationship between 
 
 Liquidity Ratios – financial metrics to evaluate how the company's ability to pay debt obligations and its margin of safety through the calculation of metrics including the current ratio, quick ratio, and operating cash flow ratio.   
 
+
 ### CareTrust REIT, Inc – CTRE  
 #### Income Statement  
 •	Over the last 5 years, CareTrust REIT, Inc seems to have been stable and increasing profit over the years. This could be due to the acquisition they bought from other companies to have more Senior Apartments/Buildings and Nursing Facilities for tenants. The Acquisition/Investment can be seen in the Cash Flow Statement.  
@@ -36,16 +37,6 @@ Liquidity Ratios – financial metrics to evaluate how the company's ability to 
 •	Looking at the Liabilities to Equity Ratio, as stated above, CareTrust REIT, Inc relies more on Equity to fund their business and operation.  
 #### Cash Flow  
 •	Over the past 5 years, CareTrust REIT has acquired a variety of properties to have more housing for seniors and/or nursing facilities. This could also explain why in some years they have a negative cash flow in some years. The expenses they pay such as Dividends and Debt Repayment could also be a factor as well.  
-
-### Lennar Corp – LEN  
-#### Income Statement  
-•	Over the last 5 years, Lennar Corp has gradually had an increase in income. Moreover, it seems that they have acquired some subsidiaries (small companies)/ partnerships due to minority increase (Lennar Corp has stakes in other smaller businesses.) Here is the list of Lennar Corp’s subsidiaries from the SEC: https://www.sec.gov/Archives/edgar/data/920760/000093176303000421/dex21.htm  
-#### Balance Sheet    
-•	Looking at the Liabilities to Asset Ratio, there seems to be a small decrease in liabilities to asset ratio over the years. The company has been gaining a little bit of time in assets over the years while maintaining a stable liability to asset ratio.   
-•	The Liabilities to Equity Ratio, seems to be stable. The minority interest in Equity seems to come from subsidiaries that Lennar Corp has ownership over.   
-#### Cash Flow  
-• Over the past 5 years of their cash flow, Lennar Corp doesn’t seem to have a stable cash flow. It fluctuates/varies in negative and positive cash flow. However, this could be due to their investment activities due to mergers, acquisitions, and subsidiaries.   
-
 
 ### Home Depot Inc (HD)
 #### Income Statement  
@@ -56,6 +47,27 @@ Liquidity Ratios – financial metrics to evaluate how the company's ability to 
 #### Cash Flow  
 •	Looking at the Net Cash from Acquisitions & Divestitures in 2020, It seems Home Depot made a huge acquisition in December 2020. They have acquired HD Supply. This is one of the reasons why there is a relatively large difference compared to other years in total cash from Investing Activities compared to the years 2017, 2018, 2019, and 2021.  
 •	Looking at Net Change in Cash or how much Cash they have leftover. They seem to be gaining or losing over the years. I expect they may make a recovery over the next year to 3 years.   
+
+### Lennar Corp – LEN  
+#### Income Statement  
+•	Over the last 5 years, Lennar Corp has gradually had an increase in income. Moreover, it seems that they have acquired some subsidiaries (small companies)/ partnerships due to minority increase (Lennar Corp has stakes in other smaller businesses.) Here is the list of Lennar Corp’s subsidiaries from the SEC: https://www.sec.gov/Archives/edgar/data/920760/000093176303000421/dex21.htm  
+#### Balance Sheet    
+•	Looking at the Liabilities to Asset Ratio, there seems to be a small decrease in liabilities to asset ratio over the years. The company has been gaining a little bit of time in assets over the years while maintaining a stable liability to asset ratio.   
+•	The Liabilities to Equity Ratio, seems to be stable. The minority interest in Equity seems to come from subsidiaries that Lennar Corp has ownership over.   
+#### Cash Flow  
+• Over the past 5 years of their cash flow, Lennar Corp doesn’t seem to have a stable cash flow. It fluctuates/varies in negative and positive cash flow. However, this could be due to their investment activities due to mergers, acquisitions, and subsidiaries.   
+
+### LGI Homes Inc – LGIH  
+#### Income Statement  
+•	Over the past 5 years, LGI Homes Inc, has a gradually had an increase in income over the years. It doesn’t appear they have any subsidiaries because there aren’t any minority interests shown on their income statement. Also, they may have acquired some smaller real estate building companies which will be shown in the Cash Flow Statement.  
+#### Balance Sheet   
+•	There doesn’t seem to be any long-term liabilities for LGI Homes Inc. It seems all of their liabilities involve current (1 < Less Years).   
+•	Their Liabilities to Asset & Liabilities to Equity seem to be stable.  
+#### Cash Flow   
+• LGI Homes Inc, over the past 5 years, seems to have not had stable cash flow. At year end, they are in negative cash flow in the years 2018-2020 except for 2017 and 2021.   
+•	LGI Homes did seem to make some small acquisitions from smaller building companies.   
+
+
 
 
 
