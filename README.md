@@ -29,11 +29,15 @@ Valuation Ratios – financial metrics to evaluate how the relationship between 
 Liquidity Ratios – financial metrics to evaluate how the company's ability to pay debt obligations and its margin of safety through the calculation of metrics including the current ratio, quick ratio, and operating cash flow ratio.   
 
 ### Home Depot Inc (HD)
-#### Income Statement
-•	Over the past 5 years, Home Depot seems to be in stable condition, and has been seeing a steady gain over the last 5 years. 
-•	Balance Sheet
-•	Looking at the Liabilities to Asset Ratio, over the last 5 years, Home Depot is close to and/or exceeding in Liabilities compared to their assets. This could mean that the company is in distress and/or may be unable to pay back its debts. However, it may be highly unlikely that Home Depot may go bankrupt even though they have higher liabilities compared to their assets. 
-•	Looking at the Liabilities to Equity, over the last 5 years, Home Depot has too many liabilities compared to their Shareholder’s Equity. Also, there were years that had a negative ratio. The Negative Ratio indicates that liabilities exceed assets.
+#### Income Statement  
+•	Over the past 5 years, Home Depot seems to be in stable condition, and has been seeing a steady gain over the last 5 years.   
+#### Balance Sheet  
+•	Looking at the Liabilities to Asset Ratio, over the last 5 years, Home Depot is close to and/or exceeding in Liabilities compared to their assets. This could mean that the company is in distress and/or may be unable to pay back its debts. However, it may be highly unlikely that Home Depot may go bankrupt even though they have higher liabilities compared to their assets.   
+•	Looking at the Liabilities to Equity, over the last 5 years, Home Depot has too many liabilities compared to their Shareholder’s Equity. Also, there were years that had a negative ratio. The Negative Ratio indicates that liabilities exceed assets.  
+#### Cash Flow  
+•	Looking at the Net Cash from Acquisitions & Divestitures in 2020, It seems Home Depot made a huge acquisition in December 2020. They have acquired HD Supply. This is one of the reasons why there is a relatively large difference compared to other years in total cash from Investing Activities compared to the years 2017, 2018, 2019, and 2021.  
+•	Looking at Net Change in Cash or how much Cash they have leftover. They seem to be gaining or losing over the years. I expect they may make a recovery over the next year to 3 years.   
+
 
 
 # Prerequistes
