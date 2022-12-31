@@ -67,6 +67,16 @@ Liquidity Ratios – financial metrics to evaluate how the company's ability to 
 • LGI Homes Inc, over the past 5 years, seems to have not had stable cash flow. At year end, they are in negative cash flow in the years 2018-2020 except for 2017 and 2021.   
 •	LGI Homes did seem to make some small acquisitions from smaller building companies.   
 
+### Lowes Companies Inc (LOW)  
+#### Income Statement  
+•	Over the past 5 years, Lowe’s seems to be in stable condition, and has been seeing a steady gain over the last 5 years. However, in 2018, Lowe’s did make a bit less than the previous year in 2017 but was able to recover the following years.  
+#### Balance Sheet  
+•	Looking at the Liabilities to Asset Ratio, over the last 5 years, Lowe’s uses most of their debt/liabilities to cover the cost of their assets from about 80% to 110%. In the Year 2021, their liabilities exceed their assets. It could be a bad sign that liabilities are close or exceed assets, but it doesn’t always mean a bad thing. It is possible that the sector they are in, and need more debt to fund their assets and operate their business.    
+•	Looking at the Liabilities to Equity Ratio – over the past 5 years, Lowe’s Liabilities to Equity gradually increased. Example, in 2017 for every $1 in Shareholder’s Equity owes $5.01. In 2018 $8.47. In 2019 $19.02. In 2020 $31.52. As of 2021, there is a negative ratio because liabilities exceed assets.   
+#### Cash Flow  
+•	In 2017, Lowe’s only acquired Maintenance Supply Headquarter for around $509M-$512M from their investment activities. There weren’t any future acquisitions and/or divestitures in the following years, 2018-2021.Other than that, Lowe’s seems to have a steady stream of other investment activities.  
+•	Lowe’s seems to have a steady stream of dividends paid to shareholders which slowly increased over the years.    
+•	The Net Changes in Cash, Lowe’s seem to be losing and gaining money over the years.    
 
 
 
