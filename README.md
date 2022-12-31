@@ -28,6 +28,13 @@ Valuation Ratios – financial metrics to evaluate how the relationship between 
 
 Liquidity Ratios – financial metrics to evaluate how the company's ability to pay debt obligations and its margin of safety through the calculation of metrics including the current ratio, quick ratio, and operating cash flow ratio.   
 
+### Home Depot Inc (HD)
+#### Income Statement
+•	Over the past 5 years, Home Depot seems to be in stable condition, and has been seeing a steady gain over the last 5 years. 
+•	Balance Sheet
+•	Looking at the Liabilities to Asset Ratio, over the last 5 years, Home Depot is close to and/or exceeding in Liabilities compared to their assets. This could mean that the company is in distress and/or may be unable to pay back its debts. However, it may be highly unlikely that Home Depot may go bankrupt even though they have higher liabilities compared to their assets. 
+•	Looking at the Liabilities to Equity, over the last 5 years, Home Depot has too many liabilities compared to their Shareholder’s Equity. Also, there were years that had a negative ratio. The Negative Ratio indicates that liabilities exceed assets.
+
 
 # Prerequistes
 #### Microsoft Azure Machine Learning Studio  
