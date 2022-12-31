@@ -78,7 +78,15 @@ Liquidity Ratios – financial metrics to evaluate how the company's ability to 
 •	Lowe’s seems to have a steady stream of dividends paid to shareholders which slowly increased over the years.    
 •	The Net Changes in Cash, Lowe’s seem to be losing and gaining money over the years.    
 
-
+### NVR, Inc  
+#### Income Statement
+•	NVR, Inc. seems to have a positive income statement over the past 5 years. It has increased in Net Income from previous years.   
+•	NVR doesn’t seem to have acquired or have any smaller business or own any smaller business because it doesn’t show any minority interest in their income statement.  
+#### Balance Sheet  
+•	The Liabilities to Asset Ratio seems to be stable. NVR doesn’t seem to be using liabilities much to fund their assets (About close to using half of its liabilities to fund their assets).  
+•	The Liabilities to Equity ratio is stable as well. However, their liabilities are almost equivalent to the debt but not a lot. It not at 100% but just about more than 50% reliance on debt.   
+#### Cash Flow  
+•	NVR, Inc seems to have an increased amount of cash flow over the past 5 years. However, except for 2021. This could be a factor of repurchasing back its own equity or repurchasing back NVR, Inc Shares of stock.  
 
 
 # Prerequistes
