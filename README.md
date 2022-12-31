@@ -37,6 +37,16 @@ Liquidity Ratios – financial metrics to evaluate how the company's ability to 
 #### Cash Flow  
 •	Over the past 5 years, CareTrust REIT has acquired a variety of properties to have more housing for seniors and/or nursing facilities. This could also explain why in some years they have a negative cash flow in some years. The expenses they pay such as Dividends and Debt Repayment could also be a factor as well.  
 
+### Lennar Corp – LEN  
+#### Income Statement  
+•	Over the last 5 years, Lennar Corp has gradually had an increase in income. Moreover, it seems that they have acquired some subsidiaries (small companies)/ partnerships due to minority increase (Lennar Corp has stakes in other smaller businesses.) Here is the list of Lennar Corp’s subsidiaries from the SEC: https://www.sec.gov/Archives/edgar/data/920760/000093176303000421/dex21.htm  
+#### Balance Sheet    
+•	Looking at the Liabilities to Asset Ratio, there seems to be a small decrease in liabilities to asset ratio over the years. The company has been gaining a little bit of time in assets over the years while maintaining a stable liability to asset ratio.   
+•	The Liabilities to Equity Ratio, seems to be stable. The minority interest in Equity seems to come from subsidiaries that Lennar Corp has ownership over.   
+#### Cash Flow  
+• Over the past 5 years of their cash flow, Lennar Corp doesn’t seem to have a stable cash flow. It fluctuates/varies in negative and positive cash flow. However, this could be due to their investment activities due to mergers, acquisitions, and subsidiaries.   
+
+
 ### Home Depot Inc (HD)
 #### Income Statement  
 •	Over the past 5 years, Home Depot seems to be in stable condition, and has been seeing a steady gain over the last 5 years.   
