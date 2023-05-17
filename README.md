@@ -101,10 +101,10 @@ Liquidity Ratios – financial metrics to evaluate how the company's ability to 
 
 #### Tableau
 
-## Authors  
-### * Tin Hang  
+## Author:  
+### Tin Hang  
 
-## Disclaimer  
+## Disclaimer
 ## 🔴 This is not get rich quick.  
 ## 🔴 This is not financial advisor.   
 ## 🔴 This is for researching and educational purposes.  
