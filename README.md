@@ -30,22 +30,22 @@ Liquidity Ratios – financial metrics to evaluate how the company's ability to 
 
 ### CareTrust REIT, Inc (CTRE)    
 #### Income Statement  
-•	Over the last 5 years, CareTrust REIT, Inc seems to have been stable and increasing profit over the years. This could be due to the acquisition they bought from other companies to have more Senior Apartments/Buildings and Nursing Facilities for tenants. The Acquisition/Investment can be seen in the Cash Flow Statement.  
+•	Over the past five years, CareTrust REIT, Inc. has exhibited stability and consistent growth in profitability. This could be attributed to the strategic acquisitions they made, expanding their portfolio of senior apartments/buildings and nursing facilities for tenants. The impact of these acquisitions/investments is evident in the Cash Flow Statement.  
 #### Balance Sheet  
-•	Looking at the Liabilities to Asset Ratio, over the last 5 years, CareTrust REIT, Inc, about half of their Liabilities is funding their assets, and the rest is from equity or from shareholders.   
-•	Looking at the Liabilities to Equity Ratio, as stated above, CareTrust REIT, Inc relies more on Equity to fund their business and operation.  
+• Looking at the Liabilities to Asset Ratio over the last 5 years, it can be observed that approximately half of CareTrust REIT, Inc's liabilities are being used to finance their assets, while the remaining portion comes from equity or shareholders.  
+• As mentioned earlier, when considering the Liabilities to Equity Ratio, CareTrust REIT, Inc demonstrates a higher reliance on equity for funding their business and operations.  
 #### Cash Flow  
-•	Over the past 5 years, CareTrust REIT has acquired a variety of properties to have more housing for seniors and/or nursing facilities. This could also explain why in some years they have a negative cash flow in some years. The expenses they pay such as Dividends and Debt Repayment could also be a factor as well.  
+•	 Over the past 5 years, CareTrust REIT has acquired a variety of properties to expand their housing options for seniors and nursing facilities. This expansion strategy may help explain the occasional negative cash flow experienced in certain years. Additionally, expenses such as dividends and debt repayment could also contribute to this situation.  
 
 ### Home Depot Inc (HD)  
 #### Income Statement  
-•	Over the past 5 years, Home Depot seems to be in stable condition, and has been seeing a steady gain over the last 5 years.   
+•	Over the past 5 years, Home Depot has maintained a stable condition and has consistently shown steady gains.  
 #### Balance Sheet  
-•	Looking at the Liabilities to Asset Ratio, over the last 5 years, Home Depot is close to and/or exceeding in Liabilities compared to their assets. This could mean that the company is in distress and/or may be unable to pay back its debts. However, it may be highly unlikely that Home Depot may go bankrupt even though they have higher liabilities compared to their assets.   
-•	Looking at the Liabilities to Equity, over the last 5 years, Home Depot has too many liabilities compared to their Shareholder’s Equity. Also, there were years that had a negative ratio. The Negative Ratio indicates that liabilities exceed assets.  
+• When examining the Liabilities to Asset Ratio over the last 5 years, Home Depot has been close to or exceeding its liabilities compared to its assets. This could indicate that the company is experiencing distress and/or may face difficulties in repaying its debts. However, it is highly unlikely that Home Depot will go bankrupt despite having higher liabilities than assets.  
+• Looking at the Liabilities to Equity ratio over the last 5 years, Home Depot has had excessive liabilities in comparison to its Shareholder’s Equity. Furthermore, there were years with a negative ratio, indicating that liabilities exceeded assets.  
 #### Cash Flow  
-•	Looking at the Net Cash from Acquisitions & Divestitures in 2020, It seems Home Depot made a huge acquisition in December 2020. They have acquired HD Supply. This is one of the reasons why there is a relatively large difference compared to other years in total cash from Investing Activities compared to the years 2017, 2018, 2019, and 2021.  
-•	Looking at Net Change in Cash or how much Cash they have leftover. They seem to be gaining or losing over the years. I expect they may make a recovery over the next year to 3 years.   
+• Analyzing the Net Cash from Acquisitions & Divestitures in 2020, it appears that Home Depot made a significant acquisition in December of that year. They acquired HD Supply, which explains the relatively large difference in total cash from Investing Activities compared to the years 2017, 2018, 2019, and 2021.  
+• Considering the Net Change in Cash or the amount of leftover Cash, Home Depot has experienced fluctuations over the years, either gaining or losing. It is expected that they may recover in the next year to three years.  
 
 ### Lennar Corp (LEN)    
 #### Income Statement  
