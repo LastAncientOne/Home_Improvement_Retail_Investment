@@ -68,14 +68,14 @@ Liquidity Ratios – financial metrics to evaluate how the company's ability to 
 
 ### Lowes Companies Inc (LOW)  
 #### Income Statement  
-•	Over the past 5 years, Lowe’s seems to be in stable condition, and has been seeing a steady gain over the last 5 years. However, in 2018, Lowe’s did make a bit less than the previous year in 2017 but was able to recover the following years.  
+•	Over the past 5 years, Lowe's has appeared to be in a stable condition and has experienced consistent growth. However, in 2018, Lowe's did generate slightly lower earnings compared to the previous year in 2017, but it managed to recover in the subsequent years.  
 #### Balance Sheet  
-•	Looking at the Liabilities to Asset Ratio, over the last 5 years, Lowe’s uses most of their debt/liabilities to cover the cost of their assets from about 80% to 110%. In the Year 2021, their liabilities exceed their assets. It could be a bad sign that liabilities are close or exceed assets, but it doesn’t always mean a bad thing. It is possible that the sector they are in, and need more debt to fund their assets and operate their business.    
-•	Looking at the Liabilities to Equity Ratio – over the past 5 years, Lowe’s Liabilities to Equity gradually increased. Example, in 2017 for every $1 in Shareholder’s Equity owes $5.01. In 2018 $8.47. In 2019 $19.02. In 2020 $31.52. As of 2021, there is a negative ratio because liabilities exceed assets.   
+• Analyzing the Liabilities to Asset Ratio over the last 5 years, Lowe's has utilized a significant portion of their debt/liabilities to cover the cost of their assets, ranging from approximately 80% to 110%. In the year 2021, their liabilities exceeded their assets. While this may raise concerns, it doesn't necessarily indicate a negative outcome. It is possible that due to the nature of their industry, Lowe's requires additional debt to fund their assets and sustain their business operations.  
+• Observing the Liabilities to Equity Ratio over the past 5 years, Lowe's has experienced a gradual increase in this ratio. For instance, in 2017, for every $1 in Shareholder's Equity, the company owed $5.01. This figure rose to $8.47 in 2018, $19.02 in 2019, and $31.52 in 2020. As of 2021, the ratio turned negative due to liabilities surpassing assets.  
 #### Cash Flow  
-•	In 2017, Lowe’s only acquired Maintenance Supply Headquarter for around $509M-$512M from their investment activities. There weren’t any future acquisitions and/or divestitures in the following years, 2018-2021.Other than that, Lowe’s seems to have a steady stream of other investment activities.  
-•	Lowe’s seems to have a steady stream of dividends paid to shareholders which slowly increased over the years.    
-•	The Net Changes in Cash, Lowe’s seem to be losing and gaining money over the years.    
+• In 2017, Lowe's engaged in investment activities by acquiring Maintenance Supply Headquarters for approximately $509M-$512M. However, there were no further acquisitions or divestitures in the subsequent years (2018-2021). Aside from that, Lowe's appears to have maintained a steady flow of other investment activities.  
+• Lowe's has consistently paid dividends to its shareholders, with the dividend amount gradually increasing over the years.    
+• When examining the Net Changes in Cash, Lowe's has experienced both losses and gains in terms of cash flow over the years.  
 
 ### NVR, Inc (NVR)   
 #### Income Statement
