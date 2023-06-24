@@ -17,15 +17,15 @@ NVR, Inc. (NVR)
 
 ### Financial Ratio or Accounting Ratio:  
 
-Profitability Ratio - financial metrics to evaluate the ability of a company to generate income (profit) relative to revenue, balance sheet assets, operating costs, and shareholders’ equity during a specific period of time. It shows how well a company utilizes its assets to produce profit and value to shareholders.  
+Profitability Ratio is a set of financial metrics used to evaluate a company's ability to generate income (profit) in relation to its revenue, balance sheet assets, operating costs, and shareholders' equity during a specific period of time. These ratios provide insights into how effectively a company utilizes its assets to generate profit and create value for shareholders.  
 
-Operating Ratio – financial metrics to evaluate how well a company is using their assets.  
+Operating Ratio is a financial metric that assesses how efficiently a company utilizes its assets.  
 
-Leverage Ratios – financial metrics to evaluate how much of an organization's capital comes from debt and it shows a solid indication of whether a business can make good on its financial obligations.  
+Leverage Ratios are financial metrics used to determine the proportion of an organization's capital that is derived from debt. They provide a reliable indication of whether a business can fulfill its financial obligations.  
 
-Valuation Ratios – financial metrics to evaluate how the relationship between the market value of a company or its equity and some fundamental financial metric (e.g., earnings).  
+Valuation Ratios are financial metrics that evaluate the relationship between the market value of a company or its equity and certain fundamental financial measures, such as earnings.  
 
-Liquidity Ratios – financial metrics to evaluate how the company's ability to pay debt obligations and its margin of safety through the calculation of metrics including the current ratio, quick ratio, and operating cash flow ratio.   
+Liquidity Ratios are financial metrics that assess a company's ability to meet its debt obligations and its margin of safety. These ratios are calculated using metrics such as the current ratio, quick ratio, and operating cash flow ratio.  
 
 
 ### CareTrust REIT, Inc (CTRE)    
