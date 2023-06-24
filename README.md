@@ -79,13 +79,13 @@ Liquidity Ratios – financial metrics to evaluate how the company's ability to 
 
 ### NVR, Inc (NVR)   
 #### Income Statement
-•	NVR, Inc. seems to have a positive income statement over the past 5 years. It has increased in Net Income from previous years.   
-•	NVR doesn’t seem to have acquired or have any smaller business or own any smaller business because it doesn’t show any minority interest in their income statement.  
+• NVR, Inc. appears to have a positive income statement over the past 5 years, with an increase in net income compared to previous years.  
+• It seems that NVR has not acquired or does not own any smaller businesses, as there is no minority interest shown in their income statement.statement.   
 #### Balance Sheet  
-•	The Liabilities to Asset Ratio seems to be stable. NVR doesn’t seem to be using liabilities much to fund their assets (About close to using half of its liabilities to fund their assets).  
-•	The Liabilities to Equity ratio is stable as well. However, their liabilities are almost equivalent to the debt but not a lot. It not at 100% but just about more than 50% reliance on debt.   
+• The Liabilities to Asset Ratio appears to be stable. NVR doesn't seem to heavily rely on liabilities to fund their assets, as they use approximately half of their liabilities for this purpose.  
+• The Liabilities to Equity ratio is also stable. However, their liabilities are almost equivalent to their debt, but not excessively so. They rely on debt for a little over 50% of their funding.   
 #### Cash Flow  
-•	NVR, Inc seems to have an increased amount of cash flow over the past 5 years. However, except for 2021. This could be a factor of repurchasing back its own equity or repurchasing back NVR, Inc Shares of stock.  
+• NVR, Inc. has shown an increased amount of cash flow over the past 5 years, except for 2021. This could be due to factors such as repurchasing its own equity or repurchasing NVR, Inc. shares of stock.  
 
 
 # Prerequistes
