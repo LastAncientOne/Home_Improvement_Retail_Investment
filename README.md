@@ -49,22 +49,22 @@ Liquidity Ratios – financial metrics to evaluate how the company's ability to 
 
 ### Lennar Corp (LEN)    
 #### Income Statement  
-•	Over the last 5 years, Lennar Corp has gradually had an increase in income. Moreover, it seems that they have acquired some subsidiaries (small companies)/ partnerships due to minority increase (Lennar Corp has stakes in other smaller businesses.) Here is the list of Lennar Corp’s subsidiaries from the SEC: https://www.sec.gov/Archives/edgar/data/920760/000093176303000421/dex21.htm  
+•	Over the last 5 years, Lennar Corp has gradually experienced an increase in income. Additionally, it appears that they have acquired several subsidiaries and partnerships, resulting in a minority increase (Lennar Corp holds stakes in other smaller businesses). You can find a list of Lennar Corp's subsidiaries from the SEC here: https://www.sec.gov/Archives/edgar/data/920760/000093176303000421/dex21.htm  
 #### Balance Sheet    
-•	Looking at the Liabilities to Asset Ratio, there seems to be a small decrease in liabilities to asset ratio over the years. The company has been gaining a little bit of time in assets over the years while maintaining a stable liability to asset ratio.   
-•	The Liabilities to Equity Ratio, seems to be stable. The minority interest in Equity seems to come from subsidiaries that Lennar Corp has ownership over.   
+ When examining the Liabilities to Asset Ratio, there seems to be a slight decrease over the years. The company has been steadily increasing its assets while maintaining a stable liability to asset ratio.  
+• The Liabilities to Equity Ratio appears to be stable. The minority interest in Equity seems to originate from subsidiaries that Lennar Corp owns.    
 #### Cash Flow  
-• Over the past 5 years of their cash flow, Lennar Corp doesn’t seem to have a stable cash flow. It fluctuates/varies in negative and positive cash flow. However, this could be due to their investment activities due to mergers, acquisitions, and subsidiaries.   
+• Looking at Lennar Corp's cash flow over the past 5 years, it does not seem to be consistent. It fluctuates between negative and positive cash flow. However, this could be attributed to their investment activities, such as mergers, acquisitions, and subsidiaries.
 
 ### LGI Homes Inc (LGIH)    
 #### Income Statement  
-•	Over the past 5 years, LGI Homes Inc, has a gradually had an increase in income over the years. It doesn’t appear they have any subsidiaries because there aren’t any minority interests shown on their income statement. Also, they may have acquired some smaller real estate building companies which will be shown in the Cash Flow Statement.  
+• Over the past 5 years, LGI Homes Inc. has experienced a gradual increase in income. Based on their income statement, it does not appear that they have any subsidiaries, as there are no minority interests shown. However, they may have acquired some smaller real estate building companies, which should be reflected in the Cash Flow Statement.  
 #### Balance Sheet   
-•	There doesn’t seem to be any long-term liabilities for LGI Homes Inc. It seems all of their liabilities involve current (1 < Less Years).   
-•	Their Liabilities to Asset & Liabilities to Equity seem to be stable.  
+• There don't seem to be any long-term liabilities for LGI Homes Inc. All of their liabilities appear to be current (1 year or less).  
+• Their Liabilities to Asset and Liabilities to Equity ratios seem to be stable.  
 #### Cash Flow   
-• LGI Homes Inc, over the past 5 years, seems to have not had stable cash flow. At year end, they are in negative cash flow in the years 2018-2020 except for 2017 and 2021.   
-•	LGI Homes did seem to make some small acquisitions from smaller building companies.   
+• Over the past 5 years, LGI Homes Inc. has had inconsistent cash flow. At year-end, they have experienced negative cash flow in the years 2018-2020, with the exception of 2017 and 2021.  
+• LGI Homes did appear to make some small acquisitions from smaller building companies.  
 
 ### Lowes Companies Inc (LOW)  
 #### Income Statement  
