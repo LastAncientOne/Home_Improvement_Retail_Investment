@@ -13,7 +13,7 @@ LGI Homes, Inc. (LGIH)
 Lowe's Companies, Inc. (LOW)  
 NVR, Inc. (NVR)  
 
-#### Use accountant statements and historical price in Excel, python, Power BI, and Tableau for Stocks Analysis
+#### Use accountant statements and historical price in Python, R, Excel, Power BI, and Tableau for Stocks Analysis
 
 ### Financial Ratio or Accounting Ratio:  
 
