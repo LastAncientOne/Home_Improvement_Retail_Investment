@@ -95,6 +95,8 @@ Liquidity Ratios are financial metrics that assess a company's ability to meet i
 
 #### Jupyter Notebook Python 3.5  
 
+#### R 3.0.0 +  
+
 #### Excel 2016
 
 #### Power BI  
